@@ -10,5 +10,6 @@ I am a doctoral student in Connected Vehicles simulations.
 
 Learn more about me at - 
 
-![Scholar](https://scholar.google.com/citations?user=L0P72OQAAAAJ)
 ![LinkedIn](https://www.linkedin.com/in/tnagacharan/)
+
+![Google Scholar](https://scholar.google.com/citations?user=L0P72OQAAAAJ)
